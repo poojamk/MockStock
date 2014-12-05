@@ -1,0 +1,34 @@
+Phase I - Week 1
+Create accounts feature added
+Use transactions stored in a central database
+Simple buy and sell operations within users
+
+Phase II - Week 2
+Create a central transaction matching system to match bids and conduct transactions
+Deploy this on a central server
+Authentication of transactions with encryption
+
+Phase III - Week 3,4
+Create stocks in ten major sectors. Five companies per sector
+Use APIs to get real time data
+Code in an index of companies to keep track of movement
+Include a news centre to show experts' opinions and predictions etc.
+Enable simple shares and debentures
+
+Phase IV - Week 5,6
+Add futures and options trading
+Add event cards to introduce fluctuations in amount of money user has
+Build a random generator to allocate event cards to users with fairness
+
+Phase V - Week 7, 8
+Introduce primary market features like IPOs and book building
+Introduce users as companies looking for investment
+
+Phase VII - Week 9,10
+Introduce banking system which acts as third party that produces currency and introduce system of credit for users.
+Income can be specialised subset of event cards
+
+Phase VI (Implementation doubtful but I would like to try) - Week 12 or so
+Accumulate data from past months and use regression to develop trend models for stock prices
+Phase out from real data to data dependent on transactions between users of the system
+
